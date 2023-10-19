@@ -3,7 +3,7 @@
 - [Sign up for Datacamp here](https://datacamp.com)
 ---
 ^^ adds a line
-You can literally just drag/drop pictures/informatics and stuff. You should upload any visualizations anyways to keep it all together
+You can literally just drag/drop pictures/informatics and stuff. You should upload any visualizations anyways to keep it all together 
 
 ![IMG_2272](https://github.com/dschenone22/The-Golden-Age-of-Video-Games/assets/136837534/de5b9746-df9f-4ffd-b794-8f06b1ead1f3)
 
