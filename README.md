@@ -1,5 +1,6 @@
 # The-Golden-Age-of-Video-Games
-##### A Data Analytics project by Dominic Schenone [Sign up for Datacamp here](https://datacamp.com)
+##### A Data Analytics project by Dominic Schenone 
+- [Sign up for Datacamp here](https://datacamp.com)
 
 
 ## Table of Contents
@@ -15,3 +16,11 @@ In this project, we'll explore the top 400 best-selling video games created betw
 ### Data Sources
 
 ### Tools 
+
+### Data Cleaning/ Preparation
+In the initial data preparation phase, we performed the following tasks: 
+1. Data Loading and inspection
+2. Handling Missing Values
+3. Data Cleaning and Formatting
+
+### Exploratory Data Analysis (What Questions did we ask/answer in this project) 
