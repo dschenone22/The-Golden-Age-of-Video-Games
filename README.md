@@ -1,6 +1,11 @@
 # The-Golden-Age-of-Video-Games
 ##### A Data Analytics project by Dominic Schenone 
 - [Sign up for Datacamp here](https://datacamp.com)
+---
+^^ adds a line
+You can literally just drag/drop pictures/informatics and stuff. You should upload any visualizations anyways to keep it all together
+
+![IMG_2272](https://github.com/dschenone22/The-Golden-Age-of-Video-Games/assets/136837534/de5b9746-df9f-4ffd-b794-8f06b1ead1f3)
 
 
 ## Table of Contents
@@ -58,4 +63,14 @@ Include here any data that could be limited and stuff that needed editing (in te
 
 ### References
 1. Helppages
-2. SQL for Businesses by 
+2. SQL for Businesses by
+
+###additional markdown syntax for me to learn 
+
+|Column 1|Column 2|
+|--------|---------|
+|SQL|Python|
+
+`syntax text`
+**bold**
+*italic*
